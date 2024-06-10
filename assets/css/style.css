@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to top left, rgba(121, 2, 111, 0.678), rgb(0, 185, 71));
+    color: #333333;
+    height: 100vh;
+    margin: 32px;
+    font-size: medium;
+    font-family: 'Arial, sans-serif';
+    text-align: center;
+}
+
+.config2 {
+    font-size: medium;
+    color: teal;
+}
+
+.config {
+    background-color: #444444;
+    color: #f0f0f0;
+    border-radius: 12px;
+    height: 48px;
+    text-align: center;
+}
+
+button {
+    background-color: #556b2f;
+    color: #f8f8f8;
+    height: 36px;
+    border-radius: 12px;
+}
+
